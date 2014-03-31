@@ -132,6 +132,8 @@ UpgradeLog*.htm
 App_Data/*.mdf
 App_Data/*.ldf
 
+# app Config file for privacy issues
+app.config
 
 #LightSwitch generated files
 GeneratedArtifacts/
