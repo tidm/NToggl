@@ -20,6 +20,8 @@ namespace NToggl.Tests
             _client = new Client(apiToken);
         }
 
+
+
         [TestMethod]
         public void Create_Project()
         {
